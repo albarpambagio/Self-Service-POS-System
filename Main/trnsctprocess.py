@@ -84,7 +84,7 @@ class Transaction:
             str: A message indicating the success of the deletion
         """      
         self.items = [item for item in self.items if item[0] != item_name]
-        return f"Barang '{item_name}' berhasil dihapus"
+        
 
     def check_order(self):
         """
