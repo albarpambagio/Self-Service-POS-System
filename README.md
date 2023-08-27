@@ -13,7 +13,7 @@ Managing transactions efficiently is crucial for retail businesses. Traditional 
 - Allow users to reset transactions when needed.
 - Create a user-friendly command-line interface.
 
-## Created Functions or Attributes and Their Functions
+## Functions and Their Processes
 - `add_item(item)`: Add an item to the transaction.
 - `update_item_name(item_name, updated_name)`: Update the name of an item in the transaction.
 - `update_item_qty(item_name, updated_qty)`: Update the quantity of an item in the transaction.
