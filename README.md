@@ -1,4 +1,4 @@
-# Self-Service Point of Sale System for Toko Andi
+# Self-Service Point-of-Sale System for Andi's Store
 
 ## Background Problems
 Managing transactions efficiently is crucial for retail businesses. Traditional manual methods of recording sales and calculating totals can be error-prone and time-consuming. The lack of a digital system can lead to inaccuracies in calculating total prices, the inability to modify orders easily, and challenges in maintaining order records. This project aims to address these problems by developing a Self-Service point-of-sale system for Toko Andi.
@@ -25,8 +25,8 @@ Managing transactions efficiently is crucial for retail businesses. Traditional 
 - `reset_transaction()`: Reset the transaction to an empty state.
 
 ## Flowchart
-![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/ba330729-85ec-459a-b051-f32c929648e2)
-URL: https://s.id/1T1to
+![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/55d020b5-472f-4b59-8756-ab71a0c747c2)
+URL: https://s.id/1T1Dp
 
 ## Testcases
 add_item(item), get_order_summary(), & total_price()
