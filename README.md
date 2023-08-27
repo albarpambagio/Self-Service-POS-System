@@ -1,7 +1,7 @@
 # Self-Service Point-of-Sale System for Andi's Store
 
 ## Background Problems
-Managing transactions efficiently is crucial for retail businesses. Traditional manual methods of recording sales and calculating totals can be error-prone and time-consuming. The lack of a digital system can lead to inaccuracies in calculating total prices, the inability to modify orders easily, and challenges in maintaining order records. This project aims to address these problems by developing a Self-Service point-of-sale system for Toko Andi.
+Managing transactions efficiently is crucial for retail businesses. Traditional manual methods of recording sales and calculating totals can be error-prone and time-consuming. The lack of a digital system can lead to inaccuracies in calculating total prices, the inability to modify orders easily, and challenges in maintaining order records. This project aims to address these problems by developing a Self-Service point-of-sale system for Toko Andi in Python.
 
 ## Required Objectives/Requirements for Program Development
 - Enable users to create new a transaction and add items to them.
