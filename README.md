@@ -55,4 +55,4 @@ URL: https://s.id/1T1Dp
 
 
 ## Conclusion
-The Self-Service Point of Sale System for Toko Andi streamlines the transaction process, making it easier for customers to create, modify, and manage their orders. By providing a user-friendly interface and ensuring order validity, this system aims to enhance the overall shopping experience and improve accuracy in order management. With the potential for future enhancements, such as user authentication and database integration, this project lays the foundation for an efficient and robust point-of-sale solution.
+The Self-Service Point-of-Sale System for Andi's store streamlines the transaction process, making it easier for customers to create, modify, and manage their orders. By providing a user-friendly interface and ensuring order validity, this system aims to enhance the overall shopping experience and improve accuracy in order management. With the potential for future enhancements, such as user authentication and database integration, this project lays the foundation for an efficient and robust point-of-sale solution.
