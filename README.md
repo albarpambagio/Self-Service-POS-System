@@ -29,32 +29,26 @@ Managing transactions efficiently is crucial for retail businesses. Traditional 
 URL: https://s.id/1T1Dp
 
 ## Test cases
-- add_item(item)
-![add_item](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/bd7532a7-65a5-46dd-b2f1-3032de8f5397)
-
-- get_order_summary()
-![get_order_summary](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/ffc5744f-9d8a-44e1-a085-2579c3081cce)
-
-- total_price()
-![total_price](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/253c6bdb-8d0b-43b9-a464-b67430dcfbe6)
+- add_item(item), get_order_summary(), & total_price()
+  ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/bd7532a7-65a5-46dd-b2f1-3032de8f5397)
 
 - delete_item(item_name)
-![delete_item](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/27d085c0-34d4-4215-9369-3a19355b1456)
+  ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/ffc5744f-9d8a-44e1-a085-2579c3081cce)
 
 - update_item_name(item_name, updated_name)
-![update_item_name](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/9b042165-36dc-4d13-a0a6-a04dd61fbf92)
+  ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/253c6bdb-8d0b-43b9-a464-b67430dcfbe6)
 
 - update_item_qty(item_name, updated_qty)
-![update_item_qty](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/d7926300-695b-42e1-8d2a-91e6a62b655a)
+  ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/27d085c0-34d4-4215-9369-3a19355b1456)
 
 - update_item_price(item_name, updated_price)
-![update_item_price](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/05c4f4d8-28f8-4c94-a190-2a814a25b127)
+  ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/9b042165-36dc-4d13-a0a6-a04dd61fbf92)
 
 - check_order()
-![check_order](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/2f3d4d50-3449-4d4e-8e72-7fc3d8c04cd8)
+  ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/d7926300-695b-42e1-8d2a-91e6a62b655a)
 
 - reset_transaction()
-![reset_transaction](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/04e17b52-dabc-4b58-aecc-74154e504db9)
+  ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/05c4f4d8-28f8-4c94-a190-2a814a25b127)
 
 
 
