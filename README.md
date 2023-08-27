@@ -34,24 +34,31 @@ URL: https://s.id/1T1Dp
 #### add_item(item)
 - add_item(item), get_order_summary(), & total_price()
 ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/bd7532a7-65a5-46dd-b2f1-3032de8f5397)
+<br/>
 
 - delete_item(item_name)
 ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/ffc5744f-9d8a-44e1-a085-2579c3081cce)
+<br/>
 
 - update_item_name(item_name, updated_name)
 ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/253c6bdb-8d0b-43b9-a464-b67430dcfbe6)
+<br/>
 
 - update_item_qty(item_name, updated_qty)
 ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/27d085c0-34d4-4215-9369-3a19355b1456)
+<br/>
 
 - update_item_price(item_name, updated_price)
 ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/9b042165-36dc-4d13-a0a6-a04dd61fbf92)
+<br/>
 
 - check_order()
 ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/d7926300-695b-42e1-8d2a-91e6a62b655a)
+<br/>
 
 - reset_transaction()
 ![image](https://github.com/albarpambagio/Self-Service-POS-System/assets/46396286/05c4f4d8-28f8-4c94-a190-2a814a25b127)
+<br/>
 
 
 ## Conclusion
